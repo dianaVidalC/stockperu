@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stockperu/static/css/main.936473d5.chunk.css",
+    "main.js": "/stockperu/static/js/main.a2fdf90a.chunk.js",
+    "main.js.map": "/stockperu/static/js/main.a2fdf90a.chunk.js.map",
+    "runtime-main.js": "/stockperu/static/js/runtime-main.bbac5ba3.js",
+    "runtime-main.js.map": "/stockperu/static/js/runtime-main.bbac5ba3.js.map",
+    "static/js/2.92e59f10.chunk.js": "/stockperu/static/js/2.92e59f10.chunk.js",
+    "static/js/2.92e59f10.chunk.js.map": "/stockperu/static/js/2.92e59f10.chunk.js.map",
+    "index.html": "/stockperu/index.html",
+    "precache-manifest.6805e8015b71ae950e79afe4e2957e3d.js": "/stockperu/precache-manifest.6805e8015b71ae950e79afe4e2957e3d.js",
+    "service-worker.js": "/stockperu/service-worker.js",
+    "static/css/main.936473d5.chunk.css.map": "/stockperu/static/css/main.936473d5.chunk.css.map",
+    "static/js/2.92e59f10.chunk.js.LICENSE.txt": "/stockperu/static/js/2.92e59f10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbac5ba3.js",
+    "static/js/2.92e59f10.chunk.js",
+    "static/css/main.936473d5.chunk.css",
+    "static/js/main.a2fdf90a.chunk.js"
+  ]
+}
